@@ -1,5 +1,6 @@
 # MATH 3020 - Graph Theory
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR-USER/YOUR-REPO/HEAD?labpath=labs%2Fmodule01_intro%2Flab01_intro.ipynb)
+## Lab 1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akalino/MATH3020/HEAD?labpath=labs%2Fmodule_1%2Flab01_intro.ipynb)
 
 
