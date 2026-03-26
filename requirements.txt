@@ -1,0 +1,6 @@
+jupyter
+notebook
+networkx
+pandas
+matplotlib
+numpy
