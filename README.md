@@ -14,3 +14,6 @@ Each lab is run via Binder, an online hosting service for Python notebooks.
 
 ## Lab 4
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akalino/MATH3020/HEAD?labpath=labs%2Fmodule_4%2Flab04_trees.ipynb)
+
+## Lab 5
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akalino/MATH3020/HEAD?labpath=labs%2Fmodule_5%2Flab05_distances.ipynb)
