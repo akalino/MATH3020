@@ -1,0 +1,146 @@
+{
+  "name": "k33_leaf_collapse step 24",
+  "metadata": {
+    "collapse_type": "leaf_vertex_edge",
+    "step": 24,
+    "nodes": 6,
+    "edges": 9,
+    "components": 1,
+    "beta1_graph_cycle_rank": 4,
+    "planar": false
+  },
+  "nodes": [
+    {
+      "id": "0",
+      "x": 0.3580011750036636,
+      "y": -0.48710804803371227,
+      "z": 0.2804813523891131,
+      "degree": 3,
+      "bipartite": 0,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "left"
+    },
+    {
+      "id": "1",
+      "x": -0.37148619130271093,
+      "y": -0.2725998239075348,
+      "z": 0.24284859776604617,
+      "degree": 3,
+      "bipartite": 0,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "left"
+    },
+    {
+      "id": "2",
+      "x": 0.23633655960282912,
+      "y": 0.49247718788420625,
+      "z": -0.5737191961333645,
+      "degree": 3,
+      "bipartite": 0,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "left"
+    },
+    {
+      "id": "3",
+      "x": 0.7748907437898334,
+      "y": -0.25517449483355825,
+      "z": -0.37011082991791355,
+      "degree": 3,
+      "bipartite": 1,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "right"
+    },
+    {
+      "id": "4",
+      "x": -0.37080348824773046,
+      "y": 0.5475076325851455,
+      "z": -0.004205468590007106,
+      "degree": 3,
+      "bipartite": 1,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "right"
+    },
+    {
+      "id": "5",
+      "x": 0.17508676494157555,
+      "y": 0.3342833305793491,
+      "z": 0.6959792926567839,
+      "degree": 3,
+      "bipartite": 1,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "right"
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.8067591172969704
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 1.2971632240387474
+    },
+    {
+      "source": "0",
+      "target": "5",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.9384988101403774
+    },
+    {
+      "source": "1",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 1.3000780666529836
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.856511773405022
+    },
+    {
+      "source": "1",
+      "target": "5",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.934011020464819
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.9436524862304765
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.8342621131324929
+    },
+    {
+      "source": "2",
+      "target": "5",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 1.2809805175220355
+    }
+  ],
+  "triangles": []
+}

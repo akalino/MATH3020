@@ -1,0 +1,372 @@
+{
+  "name": "k5_leaf_collapse step 5",
+  "metadata": {
+    "collapse_type": "leaf_vertex_edge",
+    "step": 5,
+    "nodes": 20,
+    "edges": 25,
+    "components": 1,
+    "beta1_graph_cycle_rank": 6,
+    "planar": false
+  },
+  "nodes": [
+    {
+      "id": "0",
+      "x": 0.17434138314853684,
+      "y": -0.48679768957287933,
+      "z": -0.22931192640344678,
+      "degree": 4,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "1",
+      "x": 0.0140260805738536,
+      "y": -0.0017131296841306543,
+      "z": 0.2967876116641075,
+      "degree": 5,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "2",
+      "x": -0.6841563964942685,
+      "y": -0.14604176218499962,
+      "z": -0.06343572967323233,
+      "degree": 5,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "3",
+      "x": 0.06859331664123983,
+      "y": -0.0431085311281129,
+      "z": -0.7599457395894177,
+      "degree": 5,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "4",
+      "x": -0.23529532955465912,
+      "y": 0.5252757369092832,
+      "z": -0.33287903548327746,
+      "degree": 5,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "9",
+      "x": 0.32206027352226196,
+      "y": -0.01704746575484261,
+      "z": 1.6659050295276807,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "10",
+      "x": 0.5829056229341345,
+      "y": -0.05512376239890564,
+      "z": 2.8931348835598305,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "11",
+      "x": 0.7848061748723133,
+      "y": -0.11121166380778222,
+      "z": 3.9426791072311107,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "13",
+      "x": -1.9843027841266052,
+      "y": -0.33143452463302275,
+      "z": 0.5169286605961323,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "14",
+      "x": -3.087116282838574,
+      "y": -0.4465099731923138,
+      "z": 1.149155010271825,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "15",
+      "x": -3.958705747223941,
+      "y": -0.4961801992383745,
+      "z": 1.7877689321985315,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "16",
+      "x": -4.58364237278739,
+      "y": -0.5015131919008593,
+      "z": 2.357834573799545,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "17",
+      "x": 0.6874002152999331,
+      "y": -0.0725513038814837,
+      "z": -2.073575623037438,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "18",
+      "x": 1.3037336259758496,
+      "y": -0.0975883176226337,
+      "z": -3.1931684714365853,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "19",
+      "x": 1.894115005025993,
+      "y": -0.12768708854166952,
+      "z": -4.111196546201801,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "20",
+      "x": 2.3780492788402734,
+      "y": -0.15071968464675975,
+      "z": -4.80636312341175,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "21",
+      "x": -0.5061111912921701,
+      "y": 1.9195896596403057,
+      "z": -0.5900905237123518,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "22",
+      "x": -0.7385557799418238,
+      "y": 3.1603880664980766,
+      "z": -0.7832241031498087,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "23",
+      "x": -0.928008082502847,
+      "y": 4.201743842031037,
+      "z": -0.9127285455751883,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "24",
+      "x": -1.065606820331569,
+      "y": 5.0,
+      "z": -0.9814041527390458,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "1",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.73334081465371
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.9384284481745433
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.6997249220856298
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 1.0967319650073029
+    },
+    {
+      "source": "1",
+      "target": "2",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.7987805587824403
+    },
+    {
+      "source": "1",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 1.058950677871377
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.8581133477529123
+    },
+    {
+      "source": "1",
+      "target": "9",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4034253488467154
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 1.0307053772028383
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.8513184698162095
+    },
+    {
+      "source": "2",
+      "target": "13",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.435818209640153
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.7731720088022227
+    },
+    {
+      "source": "3",
+      "target": "17",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4523816046007523
+    },
+    {
+      "source": "4",
+      "target": "21",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.443471612387032
+    },
+    {
+      "source": "9",
+      "target": "10",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.2552223768335633
+    },
+    {
+      "source": "10",
+      "target": "11",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0702582692972493
+    },
+    {
+      "source": "13",
+      "target": "14",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.2763816549240696
+    },
+    {
+      "source": "14",
+      "target": "15",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0816483102476735
+    },
+    {
+      "source": "15",
+      "target": "16",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8459013314301753
+    },
+    {
+      "source": "17",
+      "target": "18",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.278273003453878
+    },
+    {
+      "source": "18",
+      "target": "19",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0918936096511938
+    },
+    {
+      "source": "19",
+      "target": "20",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8473366815648264
+    },
+    {
+      "source": "21",
+      "target": "22",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.2770715535002781
+    },
+    {
+      "source": "22",
+      "target": "23",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0663420777543369
+    },
+    {
+      "source": "23",
+      "target": "24",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8129345886396712
+    }
+  ],
+  "triangles": []
+}

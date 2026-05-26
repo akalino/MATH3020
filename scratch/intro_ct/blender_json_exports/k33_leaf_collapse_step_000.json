@@ -1,0 +1,530 @@
+{
+  "name": "k33_leaf_collapse step 0",
+  "metadata": {
+    "collapse_type": "leaf_vertex_edge",
+    "step": 0,
+    "nodes": 30,
+    "edges": 33,
+    "components": 1,
+    "beta1_graph_cycle_rank": 4,
+    "planar": false
+  },
+  "nodes": [
+    {
+      "id": "0",
+      "x": 0.3580011750036636,
+      "y": -0.48710804803371227,
+      "z": 0.2804813523891131,
+      "degree": 4,
+      "bipartite": 0,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "left"
+    },
+    {
+      "id": "1",
+      "x": -0.37148619130271093,
+      "y": -0.2725998239075348,
+      "z": 0.24284859776604617,
+      "degree": 4,
+      "bipartite": 0,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "left"
+    },
+    {
+      "id": "2",
+      "x": 0.23633655960282912,
+      "y": 0.49247718788420625,
+      "z": -0.5737191961333645,
+      "degree": 4,
+      "bipartite": 0,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "left"
+    },
+    {
+      "id": "3",
+      "x": 0.7748907437898334,
+      "y": -0.25517449483355825,
+      "z": -0.37011082991791355,
+      "degree": 4,
+      "bipartite": 1,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "right"
+    },
+    {
+      "id": "4",
+      "x": -0.37080348824773046,
+      "y": 0.5475076325851455,
+      "z": -0.004205468590007106,
+      "degree": 4,
+      "bipartite": 1,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "right"
+    },
+    {
+      "id": "5",
+      "x": 0.17508676494157555,
+      "y": 0.3342833305793491,
+      "z": 0.6959792926567839,
+      "degree": 4,
+      "bipartite": 1,
+      "core": true,
+      "example_part": "K33_core",
+      "bipartition": "right"
+    },
+    {
+      "id": "6",
+      "x": 0.729423138599971,
+      "y": -1.8520782121599635,
+      "z": 0.5233819193774293,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "7",
+      "x": 1.00706778759384,
+      "y": -3.079984326971858,
+      "z": 0.6905154973838982,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "8",
+      "x": 1.2089437337487146,
+      "y": -4.137068030837454,
+      "z": 0.8006791615991662,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "9",
+      "x": 1.3548044366264043,
+      "y": -4.954673091787668,
+      "z": 0.877071349770472,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "10",
+      "x": -1.5199823669597872,
+      "y": -1.0131665424119032,
+      "z": 0.6335818404611567,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "11",
+      "x": -2.5181001100906633,
+      "y": -1.6570596297848939,
+      "z": 0.9920501917629013,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "12",
+      "x": -3.36324686304271,
+      "y": -2.2054378592048645,
+      "z": 1.3146705506200658,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "13",
+      "x": -4.021322326131918,
+      "y": -2.6331173880271623,
+      "z": 1.5664015088659635,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "14",
+      "x": 0.17231301860654508,
+      "y": 0.8936295648913198,
+      "z": -1.9318052668111272,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "15",
+      "x": 0.0767603563905785,
+      "y": 1.1950744435173184,
+      "z": -3.14102358449763,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "16",
+      "x": -0.02286553118597249,
+      "y": 1.426316821088001,
+      "z": -4.1896354099876705,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "17",
+      "x": -0.10763103973869932,
+      "y": 1.5914517945684095,
+      "z": -5.0,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "18",
+      "x": 2.0616928940571078,
+      "y": -0.5034287440472489,
+      "z": -0.9948644731689,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "19",
+      "x": 3.1790819837749273,
+      "y": -0.7215467857325214,
+      "z": -1.5640645201816945,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "20",
+      "x": 4.106925660448488,
+      "y": -0.912354526549007,
+      "z": -2.074468884814953,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "21",
+      "x": 4.801978426606104,
+      "y": -1.0645229233822582,
+      "z": -2.4847657487977153,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "22",
+      "x": -1.1668537727367652,
+      "y": 1.7674419600238542,
+      "z": -0.06690565411481053,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "23",
+      "x": -1.8596545135759555,
+      "y": 2.8364092379083945,
+      "z": -0.12160143924304875,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "24",
+      "x": -2.43553856328809,
+      "y": 3.7421028165503536,
+      "z": -0.1681423922406716,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "25",
+      "x": -2.880084696193884,
+      "y": 4.437641022499888,
+      "z": -0.20302478767714227,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "26",
+      "x": 0.214469388299683,
+      "y": 0.9265087010234887,
+      "z": 2.0138685786158876,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "27",
+      "x": 0.16605954111671553,
+      "y": 1.450562668034347,
+      "z": 3.1831980124824586,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "28",
+      "x": 0.058512828901329444,
+      "y": 1.886989648021796,
+      "z": 4.160181763404993,
+      "degree": 2,
+      "noise": true,
+      "example_part": "tree_noise"
+    },
+    {
+      "id": "29",
+      "x": -0.04477897561343888,
+      "y": 2.22092359849573,
+      "z": 4.913428039020312,
+      "degree": 1,
+      "noise": true,
+      "example_part": "tree_noise"
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.8067591172969704
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 1.2971632240387474
+    },
+    {
+      "source": "0",
+      "target": "5",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.9384988101403774
+    },
+    {
+      "source": "0",
+      "target": "6",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4353043264199505
+    },
+    {
+      "source": "1",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 1.3000780666529836
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.856511773405022
+    },
+    {
+      "source": "1",
+      "target": "5",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.934011020464819
+    },
+    {
+      "source": "1",
+      "target": "10",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4213215670643622
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.9436524862304765
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 0.8342621131324929
+    },
+    {
+      "source": "2",
+      "target": "5",
+      "core_edge": true,
+      "example_part": "K33_core_edge",
+      "length": 1.2809805175220355
+    },
+    {
+      "source": "2",
+      "target": "14",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.417540129502204
+    },
+    {
+      "source": "3",
+      "target": "18",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4518288676495295
+    },
+    {
+      "source": "4",
+      "target": "22",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4580353671853277
+    },
+    {
+      "source": "5",
+      "target": "26",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.4453767849478074
+    },
+    {
+      "source": "6",
+      "target": "7",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.2699502394994124
+    },
+    {
+      "source": "7",
+      "target": "8",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0818113918458552
+    },
+    {
+      "source": "8",
+      "target": "9",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8340198719149186
+    },
+    {
+      "source": "10",
+      "target": "11",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.2407001636190698
+    },
+    {
+      "source": "11",
+      "target": "12",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.057863702220799
+    },
+    {
+      "source": "12",
+      "target": "13",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8242217965045191
+    },
+    {
+      "source": "14",
+      "target": "15",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.2498833009265216
+    },
+    {
+      "source": "15",
+      "target": "16",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0784178759727199
+    },
+    {
+      "source": "16",
+      "target": "17",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8313516221505967
+    },
+    {
+      "source": "18",
+      "target": "19",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.272840347981004
+    },
+    {
+      "source": "19",
+      "target": "20",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.076017703262954
+    },
+    {
+      "source": "20",
+      "target": "21",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8213385935972113
+    },
+    {
+      "source": "22",
+      "target": "23",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.275011975083375
+    },
+    {
+      "source": "23",
+      "target": "24",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.0742855101936608
+    },
+    {
+      "source": "24",
+      "target": "25",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8262030269421551
+    },
+    {
+      "source": "26",
+      "target": "27",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.28230550125577
+    },
+    {
+      "source": "27",
+      "target": "28",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 1.075421802706254
+    },
+    {
+      "source": "28",
+      "target": "29",
+      "noise_edge": true,
+      "example_part": "tree_noise_edge",
+      "length": 0.8303981165003891
+    }
+  ],
+  "triangles": []
+}

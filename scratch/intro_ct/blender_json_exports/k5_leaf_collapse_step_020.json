@@ -1,0 +1,132 @@
+{
+  "name": "k5_leaf_collapse step 20",
+  "metadata": {
+    "collapse_type": "leaf_vertex_edge",
+    "step": 20,
+    "nodes": 5,
+    "edges": 10,
+    "components": 1,
+    "beta1_graph_cycle_rank": 6,
+    "planar": false
+  },
+  "nodes": [
+    {
+      "id": "0",
+      "x": 0.17434138314853684,
+      "y": -0.48679768957287933,
+      "z": -0.22931192640344678,
+      "degree": 4,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "1",
+      "x": 0.0140260805738536,
+      "y": -0.0017131296841306543,
+      "z": 0.2967876116641075,
+      "degree": 4,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "2",
+      "x": -0.6841563964942685,
+      "y": -0.14604176218499962,
+      "z": -0.06343572967323233,
+      "degree": 4,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "3",
+      "x": 0.06859331664123983,
+      "y": -0.0431085311281129,
+      "z": -0.7599457395894177,
+      "degree": 4,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "4",
+      "x": -0.23529532955465912,
+      "y": 0.5252757369092832,
+      "z": -0.33287903548327746,
+      "degree": 4,
+      "core": true,
+      "example_part": "K5_core"
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "1",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.73334081465371
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.9384284481745433
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.6997249220856298
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 1.0967319650073029
+    },
+    {
+      "source": "1",
+      "target": "2",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.7987805587824403
+    },
+    {
+      "source": "1",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 1.058950677871377
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.8581133477529123
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 1.0307053772028383
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.8513184698162095
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 0.7731720088022227
+    }
+  ],
+  "triangles": []
+}
