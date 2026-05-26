@@ -1,0 +1,384 @@
+{
+  "name": "K5 triangle-flap collapse step 2",
+  "metadata": {
+    "collapse_type": "edge_triangle",
+    "step": 2,
+    "remaining_triangles": 8,
+    "nodes": 15,
+    "edges": 26,
+    "components": 3,
+    "beta1_graph_cycle_rank": 14,
+    "planar": false
+  },
+  "nodes": [
+    {
+      "id": "0",
+      "x": 0.12335011278609621,
+      "y": 2.0035023657829893,
+      "z": -0.572730038758196,
+      "degree": 6,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "1",
+      "x": -2.2655779153337847,
+      "y": -0.35305270829588875,
+      "z": 0.7978471759361001,
+      "degree": 7,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "2",
+      "x": -0.36905610697405067,
+      "y": -0.7270694109928703,
+      "z": -2.21094066914994,
+      "degree": 7,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "3",
+      "x": 1.0873557336741986,
+      "y": 0.7829604877617803,
+      "z": 1.2936627932764386,
+      "degree": 8,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "4",
+      "x": 0.9644762045956985,
+      "y": -1.9504044554118318,
+      "z": 0.6534514735869106,
+      "degree": 8,
+      "core": true,
+      "example_part": "K5_core"
+    },
+    {
+      "id": "5",
+      "x": -4.01585271181994,
+      "y": 3.3476593486462902,
+      "z": 0.26732946216045994,
+      "degree": 0,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "6",
+      "x": -0.7713953455050143,
+      "y": 2.51410739883187,
+      "z": -4.811973429755894,
+      "degree": 0,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "7",
+      "x": 1.933191115112915,
+      "y": 5.0,
+      "z": 1.438289861780237,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "8",
+      "x": 4.39144228425407,
+      "y": 0.48541346982813105,
+      "z": 0.311022950493102,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "9",
+      "x": -4.502124074413565,
+      "y": -1.8875205398523547,
+      "z": -2.4934178825242053,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "10",
+      "x": -1.9507742955083136,
+      "y": 1.097800059969536,
+      "z": 4.528851398396247,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "11",
+      "x": -2.212512764665301,
+      "y": -4.13638041342235,
+      "z": 2.5873496053919247,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "12",
+      "x": 3.1402112380405898,
+      "y": 0.4967484919550917,
+      "z": -3.0783551083313196,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "13",
+      "x": 1.0632307142292425,
+      "y": -4.678874799277906,
+      "z": -2.6004634185328994,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    },
+    {
+      "id": "14",
+      "x": 3.384035811527147,
+      "y": -1.9948892955224897,
+      "z": 3.890075826031043,
+      "degree": 2,
+      "flap": true,
+      "example_part": "triangle_flap_vertex"
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "3",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 2.4294961445899967
+    },
+    {
+      "source": "0",
+      "target": "7",
+      "triangle_edge": true,
+      "length": 4.037167765393593
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 4.224262462753796
+    },
+    {
+      "source": "0",
+      "target": "8",
+      "triangle_edge": true,
+      "length": 4.615433243605442
+    },
+    {
+      "source": "0",
+      "target": "1",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 3.6247497626929817
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 3.2221452765063012
+    },
+    {
+      "source": "1",
+      "target": "2",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 3.576239332066283
+    },
+    {
+      "source": "1",
+      "target": "9",
+      "triangle_edge": true,
+      "length": 4.264874667890938
+    },
+    {
+      "source": "1",
+      "target": "3",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 3.5747060246495423
+    },
+    {
+      "source": "1",
+      "target": "10",
+      "triangle_edge": true,
+      "length": 4.015528306742976
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 3.6063322559831756
+    },
+    {
+      "source": "1",
+      "target": "11",
+      "triangle_edge": true,
+      "length": 4.185535017129975
+    },
+    {
+      "source": "2",
+      "target": "9",
+      "triangle_edge": true,
+      "length": 4.302172825680246
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 4.084552750738367
+    },
+    {
+      "source": "2",
+      "target": "12",
+      "triangle_edge": true,
+      "length": 3.816424421845977
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 3.3881557526590633
+    },
+    {
+      "source": "2",
+      "target": "13",
+      "triangle_edge": true,
+      "length": 4.221366998657915
+    },
+    {
+      "source": "3",
+      "target": "7",
+      "triangle_edge": true,
+      "length": 4.3034610175085755
+    },
+    {
+      "source": "3",
+      "target": "10",
+      "triangle_edge": true,
+      "length": 4.449247502797023
+    },
+    {
+      "source": "3",
+      "target": "12",
+      "triangle_edge": true,
+      "length": 4.838457766719655
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "triangle_edge": true,
+      "core_edge": true,
+      "example_part": "K5_core_edge",
+      "length": 2.810027370880156
+    },
+    {
+      "source": "3",
+      "target": "14",
+      "triangle_edge": true,
+      "length": 4.442133432840245
+    },
+    {
+      "source": "4",
+      "target": "8",
+      "triangle_edge": true,
+      "length": 4.218360199115006
+    },
+    {
+      "source": "4",
+      "target": "11",
+      "triangle_edge": true,
+      "length": 4.314129319341853
+    },
+    {
+      "source": "4",
+      "target": "13",
+      "triangle_edge": true,
+      "length": 4.247618744154034
+    },
+    {
+      "source": "4",
+      "target": "14",
+      "triangle_edge": true,
+      "length": 4.041285042078613
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        "0",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "vertices": [
+        "0",
+        "4",
+        "8"
+      ]
+    },
+    {
+      "vertices": [
+        "1",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "vertices": [
+        "1",
+        "3",
+        "10"
+      ]
+    },
+    {
+      "vertices": [
+        "1",
+        "4",
+        "11"
+      ]
+    },
+    {
+      "vertices": [
+        "2",
+        "3",
+        "12"
+      ]
+    },
+    {
+      "vertices": [
+        "2",
+        "4",
+        "13"
+      ]
+    },
+    {
+      "vertices": [
+        "3",
+        "4",
+        "14"
+      ]
+    }
+  ]
+}

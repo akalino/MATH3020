@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-25">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="9" title="core_edge" type="boolean" />
+      <attribute id="10" title="core_type" type="string" />
+      <attribute id="11" title="noise_edge" type="boolean" />
+      <attribute id="12" title="triangle_edge" type="boolean" />
+      <attribute id="13" title="collapse_step" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="core" type="boolean" />
+      <attribute id="1" title="core_type" type="string" />
+      <attribute id="2" title="degree" type="long" />
+      <attribute id="3" title="component" type="long" />
+      <attribute id="4" title="noise" type="boolean" />
+      <attribute id="5" title="critical" type="boolean" />
+      <attribute id="6" title="collapse_step" type="long" />
+      <attribute id="7" title="x" type="double" />
+      <attribute id="8" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="K5" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="false" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.061448637433797464" />
+          <attvalue for="8" value="-0.20651206489026774" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="K5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="false" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.1840475200578022" />
+          <attvalue for="8" value="-0.21071757089029156" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="K5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="false" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.027396607127770256" />
+          <attvalue for="8" value="-0.08137135772565901" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="K5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="false" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.12538010314740328" />
+          <attvalue for="8" value="-0.07216286575537828" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="true" />
+          <attvalue for="1" value="K5" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="false" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.048826451707436526" />
+          <attvalue for="8" value="-0.25817716144590563" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.4930118368563134" />
+          <attvalue for="8" value="-0.24897674204178916" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.7584431949250732" />
+          <attvalue for="8" value="-0.22416947936240178" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.957261209063755" />
+          <attvalue for="8" value="-0.1716306973602541" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.22967059492880762" />
+          <attvalue for="8" value="0.1510103506184261" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.3945815689111417" />
+          <attvalue for="8" value="0.3702762309367133" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.517796197514426" />
+          <attvalue for="8" value="0.5682649805400878" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.6124885553906531" />
+          <attvalue for="8" value="0.7294933802522604" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.29646728681616275" />
+          <attvalue for="8" value="0.17662744959788837" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.4449878334946794" />
+          <attvalue for="8" value="0.4080225284742581" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.5724461995197602" />
+          <attvalue for="8" value="0.6129424160479892" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="-0.671047660337746" />
+          <attvalue for="8" value="0.7753620198884844" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.3257397361130174" />
+          <attvalue for="8" value="-0.43186554112179937" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.5877324255526402" />
+          <attvalue for="8" value="-0.5524747414194897" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="0.8203093444065992" />
+          <attvalue for="8" value="-0.6328413688644337" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="4" value="true" />
+          <attvalue for="0" value="false" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="0" />
+          <attvalue for="5" value="false" />
+          <attvalue for="6" value="-1" />
+          <attvalue for="7" value="1.0" />
+          <attvalue for="8" value="-0.7010997654784374" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="1" id="0">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="2" id="1">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="3" id="2">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="4" id="3">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="2" id="4">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="3" id="5">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="4" id="6">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="9" id="7">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="3" id="8">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="4" id="9">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="13" id="10">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="4" id="11">
+        <attvalues>
+          <attvalue for="9" value="true" />
+          <attvalue for="10" value="K5" />
+          <attvalue for="11" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="17" id="12">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="21" id="13">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="10" id="14">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="11" id="15">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="14" id="16">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="14" target="15" id="17">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="15" target="16" id="18">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="17" target="18" id="19">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="18" target="19" id="20">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="20" id="21">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="21" target="22" id="22">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="22" target="23" id="23">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="24" id="24">
+        <attvalues>
+          <attvalue for="11" value="true" />
+          <attvalue for="9" value="false" />
+          <attvalue for="12" value="false" />
+          <attvalue for="13" value="-1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
