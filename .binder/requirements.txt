@@ -1,6 +1,6 @@
 jupyter
 notebook
-networkx==2.8.2
+networkx==3.2
 pandas
 matplotlib
 numpy
